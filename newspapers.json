@@ -1,242 +1,250 @@
-[
-    {
-        "start_date": {
-            "year": "1686"
-        },
-        "end_date": {
-            "year": "1686"
-        },
+{
+    "title": {
         "text": {
-            "headline": "Ordinaris [of Ordinaire] Leidse Courant",
-            "text": "Ordinaris [of Ordinaire] Leidse Courant"
+          "headline": "MAPP correspondence",
+          "text": "<p>MAPP correspondence, transcribed and encoded by studnets of the BDMS programme at Leiden University. </p>"
         }
     },
-    {
-        "start_date": {
-            "year": "1677"
+    "events": [
+        {
+            "start_date": {
+                "year": "1686"
+            },
+            "end_date": {
+                "year": "1686"
+            },
+            "text": {
+                "headline": "Ordinaris [of Ordinaire] Leidse Courant",
+                "text": "Ordinaris [of Ordinaire] Leidse Courant"
+            }
         },
-        "end_date": {
-            "year": "1679"
+        {
+            "start_date": {
+                "year": "1677"
+            },
+            "end_date": {
+                "year": "1679"
+            },
+            "text": {
+                "headline": "Traduction Libre des Gazettes flamandes et autres",
+                "text": "Traduction Libre des Gazettes flamandes et autres"
+            }
         },
-        "text": {
-            "headline": "Traduction Libre des Gazettes flamandes et autres",
-            "text": "Traduction Libre des Gazettes flamandes et autres"
+        {
+            "start_date": {
+                "year": "1687"
+            },
+            "end_date": {
+                "year": "1689"
+            },
+            "text": {
+                "headline": "Opregte Leydse Saturdagse Courant\nOpregte Leydse Dingsdagse Courant\nOpregte Leydse Donderdagse Courant",
+                "text": "Opregte Leydse Saturdagse Courant\nOpregte Leydse Dingsdagse Courant\nOpregte Leydse Donderdagse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1679"
+            },
+            "end_date": {
+                "year": "1798"
+            },
+            "text": {
+                "headline": "Nouvelles extraordinaires de divers endroits",
+                "text": "Nouvelles extraordinaires de divers endroits"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1690"
+            },
+            "end_date": {
+                "year": "1720"
+            },
+            "text": {
+                "headline": "Opregte Leydse Maandagse Courant\nOpregte Leydse Woonsdagse Courant\nOpregte Leydse Vrydagse Courant",
+                "text": "Opregte Leydse Maandagse Courant\nOpregte Leydse Woonsdagse Courant\nOpregte Leydse Vrydagse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1798"
+            },
+            "end_date": {
+                "year": "1804"
+            },
+            "text": {
+                "headline": "Nouvelles politiques",
+                "text": "Nouvelles politiques"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1720"
+            },
+            "end_date": {
+                "year": "1779"
+            },
+            "text": {
+                "headline": "Leydse Maandagse Courant\nLeydse Woensdagse Courant\nLeydse Vrydagse Courant",
+                "text": "Leydse Maandagse Courant\nLeydse Woensdagse Courant\nLeydse Vrydagse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1804"
+            },
+            "end_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Journal politique",
+                "text": "Journal politique"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1780"
+            },
+            "end_date": {
+                "year": "1795"
+            },
+            "text": {
+                "headline": "Leydse Courant",
+                "text": "Leydse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1795"
+            },
+            "end_date": {
+                "year": "1795"
+            },
+            "text": {
+                "headline": "Hollandsche Courant",
+                "text": "Hollandsche Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1796"
+            },
+            "end_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Leydse Courant",
+                "text": "Leydse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1811"
+            },
+            "end_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Gazette de Leyde / Leydse Courant",
+                "text": "Gazette de Leyde / Leydse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1812"
+            },
+            "end_date": {
+                "year": "1813"
+            },
+            "text": {
+                "headline": "Affiches, Annonces et Avis Divers de Leyde / Advertenti\u00ebn, Aankondigingen en Berigten van Leyden",
+                "text": "Affiches, Annonces et Avis Divers de Leyde / Advertenti\u00ebn, Aankondigingen en Berigten van Leyden"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1813"
+            },
+            "end_date": {
+                "year": "1823"
+            },
+            "text": {
+                "headline": "Leydse Courant",
+                "text": "Leydse Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1824"
+            },
+            "end_date": {
+                "year": "1869"
+            },
+            "text": {
+                "headline": "Leydsche Courant",
+                "text": "Leydsche Courant"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1869"
+            },
+            "end_date": {
+                "year": "1902"
+            },
+            "text": {
+                "headline": "Leidsche Courant (vanaf 1 mei 1885 ondertitel: Nieuws- en Advertentieblad voor Leiden en Omstreken)",
+                "text": "Leidsche Courant (vanaf 1 mei 1885 ondertitel: Nieuws- en Advertentieblad voor Leiden en Omstreken)"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1902"
+            },
+            "end_date": {
+                "year": "1944"
+            },
+            "text": {
+                "headline": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken",
+                "text": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1946"
+            },
+            "end_date": {
+                "year": "1966"
+            },
+            "text": {
+                "headline": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken",
+                "text": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1966"
+            },
+            "end_date": {
+                "year": "1974"
+            },
+            "text": {
+                "headline": "De Leidse Courant, dagblad voor Leiden en omstreken",
+                "text": "De Leidse Courant, dagblad voor Leiden en omstreken"
+            }
+        },
+        {
+            "start_date": {
+                "year": "1974"
+            },
+            "end_date": {
+                "year": "1992"
+            },
+            "text": {
+                "headline": "Leidse Courant, dagblad voor Zuid-Holland",
+                "text": "Leidse Courant, dagblad voor Zuid-Holland"
+            }
         }
-    },
-    {
-        "start_date": {
-            "year": "1687"
-        },
-        "end_date": {
-            "year": "1689"
-        },
-        "text": {
-            "headline": "Opregte Leydse Saturdagse Courant\nOpregte Leydse Dingsdagse Courant\nOpregte Leydse Donderdagse Courant",
-            "text": "Opregte Leydse Saturdagse Courant\nOpregte Leydse Dingsdagse Courant\nOpregte Leydse Donderdagse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1679"
-        },
-        "end_date": {
-            "year": "1798"
-        },
-        "text": {
-            "headline": "Nouvelles extraordinaires de divers endroits",
-            "text": "Nouvelles extraordinaires de divers endroits"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1690"
-        },
-        "end_date": {
-            "year": "1720"
-        },
-        "text": {
-            "headline": "Opregte Leydse Maandagse Courant\nOpregte Leydse Woonsdagse Courant\nOpregte Leydse Vrydagse Courant",
-            "text": "Opregte Leydse Maandagse Courant\nOpregte Leydse Woonsdagse Courant\nOpregte Leydse Vrydagse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1798"
-        },
-        "end_date": {
-            "year": "1804"
-        },
-        "text": {
-            "headline": "Nouvelles politiques",
-            "text": "Nouvelles politiques"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1720"
-        },
-        "end_date": {
-            "year": "1779"
-        },
-        "text": {
-            "headline": "Leydse Maandagse Courant\nLeydse Woensdagse Courant\nLeydse Vrydagse Courant",
-            "text": "Leydse Maandagse Courant\nLeydse Woensdagse Courant\nLeydse Vrydagse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1804"
-        },
-        "end_date": {
-            "year": "1811"
-        },
-        "text": {
-            "headline": "Journal politique",
-            "text": "Journal politique"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1780"
-        },
-        "end_date": {
-            "year": "1795"
-        },
-        "text": {
-            "headline": "Leydse Courant",
-            "text": "Leydse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1795"
-        },
-        "end_date": {
-            "year": "1795"
-        },
-        "text": {
-            "headline": "Hollandsche Courant",
-            "text": "Hollandsche Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1796"
-        },
-        "end_date": {
-            "year": "1811"
-        },
-        "text": {
-            "headline": "Leydse Courant",
-            "text": "Leydse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1811"
-        },
-        "end_date": {
-            "year": "1811"
-        },
-        "text": {
-            "headline": "Gazette de Leyde / Leydse Courant",
-            "text": "Gazette de Leyde / Leydse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1812"
-        },
-        "end_date": {
-            "year": "1813"
-        },
-        "text": {
-            "headline": "Affiches, Annonces et Avis Divers de Leyde / Advertenti\u00ebn, Aankondigingen en Berigten van Leyden",
-            "text": "Affiches, Annonces et Avis Divers de Leyde / Advertenti\u00ebn, Aankondigingen en Berigten van Leyden"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1813"
-        },
-        "end_date": {
-            "year": "1823"
-        },
-        "text": {
-            "headline": "Leydse Courant",
-            "text": "Leydse Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1824"
-        },
-        "end_date": {
-            "year": "1869"
-        },
-        "text": {
-            "headline": "Leydsche Courant",
-            "text": "Leydsche Courant"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1869"
-        },
-        "end_date": {
-            "year": "1902"
-        },
-        "text": {
-            "headline": "Leidsche Courant (vanaf 1 mei 1885 ondertitel: Nieuws- en Advertentieblad voor Leiden en Omstreken)",
-            "text": "Leidsche Courant (vanaf 1 mei 1885 ondertitel: Nieuws- en Advertentieblad voor Leiden en Omstreken)"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1902"
-        },
-        "end_date": {
-            "year": "1944"
-        },
-        "text": {
-            "headline": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken",
-            "text": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1946"
-        },
-        "end_date": {
-            "year": "1966"
-        },
-        "text": {
-            "headline": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken",
-            "text": "De Leidse Courant, Katholiek dagblad voor Leiden en omstreken"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1966"
-        },
-        "end_date": {
-            "year": "1974"
-        },
-        "text": {
-            "headline": "De Leidse Courant, dagblad voor Leiden en omstreken",
-            "text": "De Leidse Courant, dagblad voor Leiden en omstreken"
-        }
-    },
-    {
-        "start_date": {
-            "year": "1974"
-        },
-        "end_date": {
-            "year": "1992"
-        },
-        "text": {
-            "headline": "Leidse Courant, dagblad voor Zuid-Holland",
-            "text": "Leidse Courant, dagblad voor Zuid-Holland"
-        }
-    }
-]
+    ]
+}
