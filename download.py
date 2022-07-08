@@ -1,6 +1,5 @@
 urls_dict = { 'https://raw.githubusercontent.com/peterverhaar/python_tutorial/main/12%20Visualisation.ipynb':'12 Visualisation.ipynb',
- 'https://raw.githubusercontent.com/peterverhaar/twitter_tutorial/main/Twitter.ipynb':'Twitter.ipynb'
-            }
+ 'https://raw.githubusercontent.com/peterverhaar/twitter_tutorial/main/Twitter.ipynb':'Twitter.ipynb' }
 
 import requests
 
