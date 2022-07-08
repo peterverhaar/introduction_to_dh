@@ -1,8 +1,6 @@
-urls_dict = { 'https://edu.nl/h6khn':'Visualise_tweets.ipynb',
-        'https://edu.nl/mkgtu':'tweets.tsv',
-        'https://edu.nl/he7hh':'hash_tags.csv' , 
-        'https://edu.nl/bcm4x':'bli.csv' , 
-           'https://edu.nl/p97ma':'pisa.csv' }
+urls_dict = { 'https://raw.githubusercontent.com/peterverhaar/python_tutorial/main/12%20Visualisation.ipynb':'12 Visualisation.ipynb',
+ 'https://raw.githubusercontent.com/peterverhaar/twitter_tutorial/main/Twitter.ipynb':'Twitter.ipynb'
+            }
 
 import requests
 
